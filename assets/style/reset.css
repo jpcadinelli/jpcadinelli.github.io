@@ -1,0 +1,45 @@
+/* importando a fonte */
+
+/* -------------------------- */
+/* -----------Reset---------- */
+/* -------------------------- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* -------------------------- */
+/* -------Predefinições------ */
+/* -------------------------- */
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+:root {
+    /* Cores - tema claro */
+    --cor-claro-primaria: ;
+    --cor-claro-secundaria: ;
+    --cor-claro-terciaria: ;
+    --cor-claro-quaternaria: ;
+
+    --cor-claro-texto-primaria: ;
+    --cor-claro-texto-secundaria: ;
+
+    /* Cores - tema escuro */
+    --cor-escuro-primaria: ;
+    --cor-escuro-secundaria: ;
+    --cor-escuro-terciaria: ;
+    --cor-escuro-quaternaria: ;
+
+    --cor-escuro-texto-primaria: ;
+    --cor-escuro-texto-secundaria: ;
+
+    /* fontes */
+    --fonte-1: ;
+    --fonte-2: ;
+}
