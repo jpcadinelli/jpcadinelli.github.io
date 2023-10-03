@@ -1,4 +1,5 @@
 /* importando a fonte */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
 
 /* -------------------------- */
 /* -----------Reset---------- */
@@ -23,23 +24,25 @@ li {
 :root {
     /* Cores - tema claro */
     --cor-claro-primaria: ;
-    --cor-claro-secundaria: ;
+    --cor-claro-secundaria: black;
     --cor-claro-terciaria: ;
     --cor-claro-quaternaria: ;
+    --box-shadow-claro: rgba(0, 0, 0, .35);
 
-    --cor-claro-texto-primaria: ;
-    --cor-claro-texto-secundaria: ;
+    --cor-claro-texto-primaria: black;
+    --cor-claro-texto-secundaria: rgb(232, 233, 222);
 
     /* Cores - tema escuro */
     --cor-escuro-primaria: ;
     --cor-escuro-secundaria: ;
     --cor-escuro-terciaria: ;
     --cor-escuro-quaternaria: ;
+    --box-shadow-escuro: rgba(255, 255, 255, .35);
 
     --cor-escuro-texto-primaria: ;
     --cor-escuro-texto-secundaria: ;
 
     /* fontes */
-    --fonte-1: ;
+    --fonte-1: 'DM Serif Display', serif;
     --fonte-2: ;
 }
