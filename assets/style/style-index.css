@@ -1,3 +1,7 @@
+/* -------------------------- */
+/* ----Importando reset e---- */
+/* -------predefinições------ */
+/* -------------------------- */
 @import url('./reset.css');
 
 /* -------------------------- */
@@ -98,6 +102,21 @@ h1 i {
 
 .botoes-rapidos img {
     width: 35px;
+}
+
+/* -------------------------- */
+/* --------Botão Topo-------- */
+/* -------------------------- */
+.botao-topo {
+    position: fixed;
+    z-index: 9;
+    left: 2rem;
+    bottom: 2rem;
+    background: var(--cor-claro-secundaria);
+    padding: 1.5rem 1rem;
+    border-radius: 35px;
+    box-shadow: 1px 1px 5px var(--box-shadow-claro);
+    color: var(--cor-claro-texto-secundaria);
 }
 
 /* -------------------------- */
