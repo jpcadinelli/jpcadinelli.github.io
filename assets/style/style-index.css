@@ -11,6 +11,7 @@ header {
     margin: .5rem 2rem;
     padding-bottom: .5rem;
     border-bottom: 1px solid var(--cor-claro-secundaria);
+    height: 5vh;
 }
 
 .header-logo {
@@ -49,7 +50,7 @@ h1 {
     font-family: var(--fonte-1);
     font-size: 128px;
     text-align: center;
-    margin-top: 9rem;
+    margin-top: 6rem;
     line-height: 128px;
 }
 
