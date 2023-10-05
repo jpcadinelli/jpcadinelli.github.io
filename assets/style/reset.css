@@ -23,9 +23,9 @@ li {
 
 :root {
     /* Cores - tema claro */
-    --cor-claro-primaria: ;
+    --cor-claro-primaria: white;
     --cor-claro-secundaria: black;
-    --cor-claro-terciaria: ;
+    --cor-claro-terciaria: linear-gradient(#ffffff, #bbbbbb);;
     --cor-claro-quaternaria: ;
     --box-shadow-claro: rgba(0, 0, 0, .35);
 
